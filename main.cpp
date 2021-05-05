@@ -26,6 +26,10 @@ int binary_search(vector<int> arr, int num) {
     } while (begin != curr_index);
     return -1;
 }
+int one_mode_function(vector<int> arr){
+    bool is_raise = arr[]
+
+}
 int main(int argc, char **argv) {
     vector<int> arr = {1, 2, 3, 4, 5};
     cout << binary_search(arr, 2);
